@@ -85,7 +85,7 @@ int maxSpacing(Graph &g, int k)
 }
 
 int main(int argc, const char * argv[]) {
-    Graph myG = getGraph("~/Documents/cluster/cluster/test.txt");
+    Graph myG = getGraph("~/Max-spacing-k-cluster/test.txt");
     cout << maxSpacing(myG, 4) << endl;
     return 0;
 }
