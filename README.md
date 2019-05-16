@@ -6,6 +6,7 @@ The code was part of a school assignment.
 # Input file
 
 The program reads an input from a text file in the following format:
+
 [number_of_nodes]
 
 [edge 1 node 1] [edge 1 node 2] [edge 1 cost]
